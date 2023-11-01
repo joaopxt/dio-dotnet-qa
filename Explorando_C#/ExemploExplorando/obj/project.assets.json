@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaop\\dio\\Explorando_C#\\ExemploExplorando\\ExemploExplorando.csproj",
+      "projectUniqueName": "C:\\Users\\joaop\\dio_dotnet_qa\\Explorando_C#\\ExemploExplorando\\ExemploExplorando.csproj",
       "projectName": "ExemploExplorando",
-      "projectPath": "C:\\Users\\joaop\\dio\\Explorando_C#\\ExemploExplorando\\ExemploExplorando.csproj",
+      "projectPath": "C:\\Users\\joaop\\dio_dotnet_qa\\Explorando_C#\\ExemploExplorando\\ExemploExplorando.csproj",
       "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaop\\dio\\Explorando_C#\\ExemploExplorando\\obj\\",
+      "outputPath": "C:\\Users\\joaop\\dio_dotnet_qa\\Explorando_C#\\ExemploExplorando\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaop\\AppData\\Roaming\\NuGet\\NuGet.Config"
