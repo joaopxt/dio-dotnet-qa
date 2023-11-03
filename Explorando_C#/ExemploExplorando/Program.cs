@@ -15,4 +15,8 @@ cursoIngles.ListarAlunos();
 cursoIngles.RemoverAluno(p2);
 cursoIngles.ListarAlunos();
 
+DateTime data = DateTime.Now;
+
+Console.WriteLine($"Data de aquisição do curso: {data}");
+
 Console.WriteLine("Fim do programa!");
