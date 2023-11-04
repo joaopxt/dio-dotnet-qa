@@ -1,5 +1,120 @@
 ﻿using ExemploExplorando.Models;
 
+//UTILIZANDO O IF TERNÁRIO
+int numero = 10;
+bool ehPar = false;
+
+ehPar = numero % 2 == 0;
+
+Console.WriteLine($"O numero {numero} é " + (ehPar ? "par" : "ímpar")); //ESSA É A SINTAXE DE UM IF TERNÁRIO 
+
+// if (numero % 2 == 0)   ESSA É A MANEIRA CONVENCIONAL DE SE FAZER UM IF ELSE
+// {
+//     Console.WriteLine($"O número {numero} é par");
+// }
+// else
+// {
+//     Console.WriteLine($"O número {numero} é ímpar");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*UTILIZANDO UM DESCONSTRUTOR
+
+Pessoa p1 = new Pessoa("João", "Peixoto");
+
+(string nome, string sobrenome) = p1;
+
+Console.WriteLine($"Nome: {nome}, Sobrenome: {sobrenome}");*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* UTILIZANDO UM MÉTODO QUE RETORNA UMA TUPLA
+LeituraArquivos arquivo = new LeituraArquivos();
+
+var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+if (sucesso)
+{
+    //Console.WriteLine("Quantidade linhas do arquivo: " + qtdLinhas); CASO EU NÃO VÁ MAIS USAR O qtdLinhas, EU POSSO USAR O _ NA DECLARAÇÃO DELE PARA DESCARTAR ELE
+    foreach (string linha in linhasArquivo)
+    {
+        Console.WriteLine(linha);
+    }
+}
+else
+{
+    Console.WriteLine("Erro ao ler o arquivo!");
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+/* UTILIZANDO TUPLAS
+(int, string, string, decimal) tupla = (23, "João", "Peixoto", 1.85M);//ATRIBUIÇÃO DE TUPLA #1
+Console.WriteLine($"ID: {tupla.Item1}");
+Console.WriteLine($"Nome: {tupla.Item2}");
+Console.WriteLine($"Sobrenome: {tupla.Item3}");
+Console.WriteLine($"Altura: {tupla.Item4}");
+
+ValueTuple<int, string, string, decimal> tupla2 = (21, "Emilly", "Peixoto", 1.55M);//ATRIBUIÇÃO DE TUPLA #2
+Console.WriteLine($"ID: {tupla2.Item1}");
+Console.WriteLine($"Nome: {tupla2.Item2}");
+Console.WriteLine($"Sobrenome: {tupla2.Item3}");
+Console.WriteLine($"Altura: {tupla2.Item4}");
+
+var tupla3 = Tuple.Create(48, "Elinai", "Silva", 1.63M);//ATRIBUIÇÃO DE TUPLA #3
+Console.WriteLine($"ID: {tupla3.Item1}");
+Console.WriteLine($"Nome: {tupla3.Item2}");
+Console.WriteLine($"Sobrenome: {tupla3.Item3}");
+Console.WriteLine($"Altura: {tupla3.Item4}");*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* UTILIZANDO DICIONÁRIOS
 Dictionary<string, string> dicionario = new Dictionary<string, string>();
