@@ -1,5 +1,80 @@
 ﻿using ExemploExplorando.Models;
+using Newtonsoft.Json;
 
+string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+
+foreach (Venda venda in listaVenda)
+{
+    Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto},"
+    + $" Preço: {venda.Preco}, Data da Venda: {venda.DataVenda}");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Serializando uma classe para JSON
+
+DateTime dataAtual = DateTime.Now;
+
+List<Venda> listaVendas = new List<Venda>();
+
+Venda v1 = new Venda(1, "Lapis", 25.00M, dataAtual);
+Venda v2 = new Venda(2, "Canetas", 3.00M, dataAtual);
+
+listaVendas.Add(v1);
+listaVendas.Add(v2);
+
+string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
+
+File.WriteAllText("Arquivos/vendas.json", serializado);
+
+Console.WriteLine(serializado);*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 //UTILIZANDO O IF TERNÁRIO
 int numero = 10;
 bool ehPar = false;
@@ -15,7 +90,7 @@ Console.WriteLine($"O numero {numero} é " + (ehPar ? "par" : "ímpar")); //ESSA
 // else
 // {
 //     Console.WriteLine($"O número {numero} é ímpar");
-// }
+// }*/
 
 
 

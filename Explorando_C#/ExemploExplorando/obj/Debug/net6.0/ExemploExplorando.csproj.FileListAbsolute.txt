@@ -28,3 +28,5 @@ C:\Users\joaop\dio_dotnet_qa\Explorando_C#\ExemploExplorando\obj\Debug\net6.0\re
 C:\Users\joaop\dio_dotnet_qa\Explorando_C#\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
 C:\Users\joaop\dio_dotnet_qa\Explorando_C#\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
 C:\Users\joaop\dio_dotnet_qa\Explorando_C#\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
+C:\Users\joaop\dio_dotnet_qa\Explorando_C#\ExemploExplorando\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\joaop\dio_dotnet_qa\Explorando_C#\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CopyComplete

@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Lapis",
+    "Preco": 25.00,
+    "DataVenda": "2023-11-06T17:46:03.4443815-03:00"
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Canetas",
+    "Preco": 3.00,
+    "DataVenda": "2023-11-06T17:46:03.4443815-03:00"
+  }
+]
