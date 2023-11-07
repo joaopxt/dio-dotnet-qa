@@ -1,0 +1,15 @@
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\obj\Debug\net6.0\ExemploPoo.csproj.AssemblyReference.cache
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\obj\Debug\net6.0\ExemploPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\obj\Debug\net6.0\ExemploPoo.AssemblyInfoInputs.cache
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\obj\Debug\net6.0\ExemploPoo.AssemblyInfo.cs
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\obj\Debug\net6.0\ExemploPoo.csproj.CoreCompileInputs.cache
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\bin\Debug\net6.0\ExemploPoo.exe
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\bin\Debug\net6.0\ExemploPoo.deps.json
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\bin\Debug\net6.0\ExemploPoo.runtimeconfig.json
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\bin\Debug\net6.0\ExemploPoo.dll
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\bin\Debug\net6.0\ExemploPoo.pdb
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\obj\Debug\net6.0\ExemploPoo.dll
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\obj\Debug\net6.0\refint\ExemploPoo.dll
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\obj\Debug\net6.0\ExemploPoo.pdb
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\obj\Debug\net6.0\ExemploPoo.genruntimeconfig.cache
+C:\Users\joaop\dio_dotnet_qa\POO\ExemploPoo\obj\Debug\net6.0\ref\ExemploPoo.dll
