@@ -7,6 +7,15 @@ namespace ExemploPoo.Models
 {
     public class Professor : Pessoa
     {
+        public Professor()//Construtor sem parâmetros
+        {
+
+        }
+
+        public Professor(string nome) : base(nome)//Para herdar um construtor, preciso passar este  ": base (nome)" para que a classe filha também
+        {
+        }
+
         public decimal Salario { get; set; }
 
         public override void Apresentar()
